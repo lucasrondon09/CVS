@@ -1,0 +1,64 @@
+@charset "utf-8";
+/* CSS Document */
+
+.btn-txt{
+	color: #fff !important;
+}
+
+.social-btn{
+	color: #fff !important;
+}
+
+.btn-face:hover{
+	
+	
+	color: #4267B2 !important;
+}
+
+
+.btn-twitter:hover{
+	
+	color: #1DA1F2 !important;
+}
+
+.btn-pint:hover{
+	
+	color: #BD081C !important;
+}
+
+
+.btn-zoom:hover{
+	
+	color: #3E3E3E !important;
+}
+
+
+.midias{
+	
+	margin: 100px;
+	
+}
+
+.midias .face{
+	
+	color: #4267B2;
+	
+}
+
+.midias .pint{
+	
+	color: #bd081b;
+	
+}
+
+.midias .insta{
+	
+	background: -webkit-linear-gradient(60deg,#FCD47C, #F74F4F, #495BD9);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+
+}
+
+.midias li{
+	padding: 30px;
+}
