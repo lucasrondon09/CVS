@@ -3,7 +3,6 @@
 
 
 $link = mysql_connect('localhost', 'root', '');
-//$link = mysql_connect('cosme.mysql.uhserver.com', 'bdcosme', 'dev@09');
 
 if (!$link) {
     die('Nao foi possivel conectar: ' . mysql_error());
